@@ -1,0 +1,9 @@
+Filenames: smartphone_data.txt, smartphone_tidy_subdata
+
+Variables
+activity - list of 6 activities that subjects performed
+subject - id for each participating subject
+*mean & std indicate mean and standard deviation measurements
+Time*Y - Time measurements for the duration of a force measurement in the given axis (X,Y, or Z)
+Frequency*Y - Number of repetitions the given force measurement was recorded for the subject and activity. 
+
