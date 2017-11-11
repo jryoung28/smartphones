@@ -1,0 +1,2 @@
+# smartphones
+Accelerometer smartphone assignment
