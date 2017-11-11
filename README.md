@@ -1,5 +1,5 @@
-# smartphones
-Accelerometer smartphone assignment
+ # smartphones
+Accelerometer smartphone assignment - 
 This script will read, combine, and analyze specific data files from the working directory; these files must be unzipped before running the script. These files come from the following link:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
